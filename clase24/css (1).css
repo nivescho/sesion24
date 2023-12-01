@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Nova+Square&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nova Square',sans-serif;
+
+}
+
+body {
+    background-image:url(./1.gif);
+    text-align: center;
+    font-family: calibri;
+    font-size: 200%;
+    background-size: cover;  
+    
+      
+}
+header{
+    text-align: left;
+    color: rgb(255, 255, 255);
+    background-color:rgb(46,204,113);
+    
+}
+.container {
+    height: 50vh;
+}
+
+input{
+    height: 400px;
+    width: 400px;
+
+}
+
+#footer{
+    background-color: rgba(46, 204, 112, 0.603) ;
+    width: 100%;
+    height: 120px;
+    color: aliceblue;
+    bottom: 0;
+   
+}
+
+
+#leer{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
